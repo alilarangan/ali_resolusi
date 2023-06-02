@@ -2,3 +2,5 @@
  _Framework php
 -belajar js
 _framework JavaScript
+-Reactjs
+-vue
